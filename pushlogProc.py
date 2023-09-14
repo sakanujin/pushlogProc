@@ -182,7 +182,7 @@ sender_email   = 'sakashita@kannetsu.co.jp'
 #receiver_email = 'ueno@kannetsu.co.jp'
 receiver_email = 'sakanujin@gmail.com'
 username = 'sakashita@kannetsu.co.jp'
-password = 'knnts1109'
+password = '************'   # pls put in your password 
 subject   = 'ファイルの添付メールテスト'
 
 body = 'いつもお世話になっております。メールを添付しました。ご査収ください'
